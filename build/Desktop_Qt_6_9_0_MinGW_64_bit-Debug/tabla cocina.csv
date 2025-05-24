@@ -1,0 +1,8 @@
+id,name,type,quantity,location,purchase_date
+1,cucharas,Alimentacion,10,cocina,2025-05-23
+2,tenedores,Alimentacion,10,cocina,2025-05-23
+3,platos ondos,Alimentacion,8,cocina,2025-05-23
+4,platos planos,Alimentacion,6,cocina,2025-05-23
+5,cuchillos,Alimentacion,10,cocina,2025-05-23
+6,vasos,Alimentacion,10,cocina,2025-05-23
+7,jabon,Alimentacion,5,cocina,2025-05-23
